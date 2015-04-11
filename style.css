@@ -60,3 +60,20 @@ body {
 	padding-top: 125px;
 	padding-bottom: 50px;
 }
+body table{
+	font-family: 'Audiowide', cursive;
+}
+body td{
+	background-color: red; 
+	background: rgba(0,0,0,0.6);
+	border: #EB650C solid 6px; 
+	border-radius: 10px; 
+	text-align: center;
+	color: white; 
+}
+body td img{
+	height: 200px; 
+	border: red solid 6px; 
+	border-radius: 10px; 
+	margin: 10px; 
+}
